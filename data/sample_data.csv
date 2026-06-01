@@ -1,0 +1,9 @@
+case_id,domain,metric,dimension,value,period
+1,Sales,revenue,North,42000,2026-01
+2,Sales,revenue,South,31000,2026-01
+3,Marketing,conversions,Email,510,2026-02
+4,Marketing,conversions,Paid Search,430,2026-02
+5,Finance,profit,Core,80000,2026-02
+6,Finance,profit,Growth,22000,2026-02
+7,Operations,stockout_risk,SKU-102,1,2026-03
+8,HR,attrition_rate,Operations,0.25,2026-Q1
